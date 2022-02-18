@@ -32,3 +32,5 @@ Obs: Se nada funcionar, você tem o dever de Fazer um PR (Pull Request) para cor
 # Passo 6
 ![](image/5.png)
 
+#Vem comigo 
+![Linkedin](https://www.linkedin.com/in/androidjava/)
