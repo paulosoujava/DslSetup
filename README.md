@@ -14,9 +14,9 @@ De acordo com Eric Evans em seu livro Domain-Driven Design, o
 ![](image/1.png)
 # Passo 2
 ![](image/2.png)
-# Passo 3 Adicione a annotation @Dao na classe
+# Passo 3 
 ![](image/3.png)
-# Passo 4
+# Passo 4 Adicione a annotation @Dao na classe
 ![](image/4.png)
 # Passo 5
 ![](image/5.png)
