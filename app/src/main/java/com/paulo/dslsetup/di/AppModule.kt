@@ -4,6 +4,7 @@ import android.app.Application
 import androidx.room.Room
 import com.paulo.dslsetup.data.repository.local.TodoDatabase
 import com.paulo.dslsetup.data.repository.server.TodoApi
+import com.paulo.dslsetup.model.MainViewModel
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -18,6 +19,7 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 object AppModule {
+
 
     @Provides
     @Singleton
